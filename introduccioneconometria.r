@@ -97,7 +97,8 @@ browseURL(url = "https://www.youtube.com/watch?v=pvJ5FaT9Kj4", browser = getOpti
 
 print("Operaciones elementales")
 3+7
-10-1
+pi
+exp(1)
 4.5/2.2
 4.8*5.5
 10^2
